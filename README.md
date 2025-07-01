@@ -1,1 +1,1 @@
-# PTB-XL-ECG
+# PTB-XL-EC
