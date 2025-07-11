@@ -32,7 +32,7 @@ The PTB XL dataset is a publicly available dataset for ECG classification. The g
 
 ## Requirements
 
-Ensure you have the following libraries installed to run the notebook:
+Ensure that the following libraries installed to run the notebook:
 
 ```bash
 pip install pandas numpy wfdb tqdm matplotlib seaborn kagglehub
