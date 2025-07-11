@@ -1,4 +1,3 @@
-# PTB-XL
 # PTB XL Dataset ECG Data Wrangling
 
 This repository contains a Jupyter notebook for wrangling and preparing the **PTB XL ECG Dataset**. The notebook performs exploratory data analysis (EDA), data wrangling, and visualization for the dataset, which includes electrocardiogram (ECG) signals from a large number of patients.
